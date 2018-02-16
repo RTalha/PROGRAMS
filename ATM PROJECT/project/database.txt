@@ -1,0 +1,3 @@
+talha			latif			225932401			6541			250
+fahad			tariq			123456789			1234			600.7
+abbubakkar			ikhlaq			987654321			2222			900.8
